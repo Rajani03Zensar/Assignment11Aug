@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using CalculatorLib;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
-
+//PublicKeyToken=6ce49746132bacb4
 namespace CalculatorConsole
 {
     [Serializable]
