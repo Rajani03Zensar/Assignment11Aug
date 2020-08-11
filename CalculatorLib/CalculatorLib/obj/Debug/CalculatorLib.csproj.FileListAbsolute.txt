@@ -1,0 +1,6 @@
+D:\Dot net\DotnetConsoleApps\CalculatorLib\CalculatorLib\bin\Debug\CalculatorLib.dll
+D:\Dot net\DotnetConsoleApps\CalculatorLib\CalculatorLib\bin\Debug\CalculatorLib.pdb
+D:\Dot net\DotnetConsoleApps\CalculatorLib\CalculatorLib\obj\Debug\CalculatorLib.csprojAssemblyReference.cache
+D:\Dot net\DotnetConsoleApps\CalculatorLib\CalculatorLib\obj\Debug\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\Dot net\DotnetConsoleApps\CalculatorLib\CalculatorLib\obj\Debug\CalculatorLib.dll
+D:\Dot net\DotnetConsoleApps\CalculatorLib\CalculatorLib\obj\Debug\CalculatorLib.pdb
